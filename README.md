@@ -2,6 +2,7 @@
 
 A free 3D tourism exploration game for Lộc Ninh town, Bình Phước, Vietnam.
 No API key, no cost — built with CesiumJS, Esri satellite imagery and OpenStreetMap.
+🔗 Live demo: https://kham-pha-loc-ninh-3d.vercel.app
 
 ## Play
 
