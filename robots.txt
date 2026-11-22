@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kham-pha-loc-ninh-3d.vercel.app/sitemap.xml
